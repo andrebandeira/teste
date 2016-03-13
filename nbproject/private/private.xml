@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/andre/Projetos/Web/teste/resources/views/contatos/lista.blade.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/public/js/teste.js</file>
+            <file>file:/home/andre/Projetos/Web/teste/resources/views/contatos/novo.blade.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/app/tbl_contato.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/bootstrap/cache/compiled.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/app/Http/Controllers/Contatos.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/app/Http/Controllers/Controller.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/resources/views/contatos/editar.blade.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/app/tbl_contato_grupo.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/public/index.php</file>
+            <file>file:/home/andre/Projetos/Web/teste/app/Http/routes.php</file>
+        </group>
+    </open-files>
+</project-private>
